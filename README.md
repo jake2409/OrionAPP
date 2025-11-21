@@ -12,7 +12,7 @@ Aplicativo mobile desenvolvido em React Native (Expo) e TypeScript para registra
 
 ## Pré-requisitos
 
-- Node.js 18+
+- Node.js 22+
 - npm ≥ 9 (ou Yarn, se preferir)
 - Expo CLI opcional (`npm install -g expo-cli`)
 
